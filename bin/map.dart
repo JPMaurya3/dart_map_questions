@@ -1,5 +1,2 @@
-import 'package:map/map.dart' as map;
-
-void main(List<String> arguments) {
-  print('Hello world: ${map.calculate()}!');
-}
+/*A collection of key/value pairs, from which you retrieve a value using its associated key.
+ */
