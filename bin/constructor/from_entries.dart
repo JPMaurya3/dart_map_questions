@@ -1,3 +1,7 @@
+/*
+ * Creates a new map and adds all entries.
+ * Returns a new Map<K, V> where all entries of entries have been added in iteration order.
+ */
 void main() {
   final moonCount = <String, int>{
     'Mercury': 0,
