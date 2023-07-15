@@ -1,6 +1,7 @@
 /*
 In Dart, the entries property is used to access the 
 key-value pairs of a map as an iterable. Each key-value pair is represented as a MapEntry object.
+it only show the entries
  */
 //question Write a programm in which get key value properties
 
